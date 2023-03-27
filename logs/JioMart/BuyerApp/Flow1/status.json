@@ -7,10 +7,10 @@
     "core_version": "1.1.0",
     "bap_id": "jiomart-buyer.ondcz5.de",
     "bap_uri": "https://jiomart-buyer.ondcz5.de/protocol/v1",
-    "transaction_id": "38a45950-973a-4614-b033-d84baf8ddf4c",
-    "message_id": "e61d772a-6735-49a1-b284-922319221311",
-    "timestamp": "2023-03-08T09:20:06.318Z",
-    "bpp_id": "preprod-jajee-bpp.shopalyst.com"
+    "transaction_id": "5442362c-870e-412e-be8a-6131a806f733",
+    "message_id": "796cf97c-d961-488f-9608-c4ee2ac1c67b",
+    "timestamp": "2023-03-27T06:48:09.917Z",
+    "bpp_id": "preprod-wow-bpp.shopalyst.com"
   },
-  "message": { "order_id": "bcbc4c17-a2f1-4bb5-a546-3f033410e741" }
+  "message": { "order_id": "771cf7b6-82e4-419a-af97-9d87df3c8d0d" }
 }
